@@ -13,7 +13,7 @@ Mostra os uniformes do Football Manager 26 em 3D, dentro do próprio jogo.
 
 ### Download
 
-Baixe o `FMActionLink-Kits3D-1.0.0.zip` na página de [Releases](../../releases/latest).
+Baixe o zip mais recente (`FMActionLink-Kits3D-<versão>.zip`) na página de [Releases](../../releases/latest).
 
 ### Instalar
 
@@ -38,7 +38,7 @@ Shows Football Manager 26 kits in 3D, inside the game itself.
 
 ### Download
 
-Get `FMActionLink-Kits3D-1.0.0.zip` from the [Releases](../../releases/latest) page.
+Get the latest zip (`FMActionLink-Kits3D-<version>.zip`) from the [Releases](../../releases/latest) page.
 
 ### Install
 
